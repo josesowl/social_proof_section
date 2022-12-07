@@ -22,6 +22,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [What I learned](#what-i-learned)
 
+- [How to see the page](#how-to-see-the-page)
+
 - [Author](#author)
 
 
@@ -72,6 +74,10 @@ Users should be able to:
 ### What I learned
 
 With this project I was able to learn how to use semantic HTML5 to layout a web page in the same way I learned how CSS works by adding properties and visual value to HTML tags.  
+
+### How to see the page
+
+you should to download the project and open the index.html file in your browser.
 
 
 ## Author
